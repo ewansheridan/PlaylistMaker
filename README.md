@@ -5,9 +5,8 @@ User inputs up to 3 songs for up to 4 artists. The program puts the songs in alp
 
 Compiled to a .exe executable file using gcc
 
-Example run:
-
-
+## Example run
+```text
 Insert an artist/group name:
 Oasis
 
@@ -109,4 +108,3 @@ The Beach Boys  -  Good Vibrations
 The Beatles  -  Strawberry Fields Forever
 Oasis  -  Champagne Supernova
 Oasis  -  Live Forever
-``
