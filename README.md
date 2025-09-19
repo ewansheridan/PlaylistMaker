@@ -7,9 +7,10 @@ Compiled to a .exe executable file using gcc
 
 Example run:
 
+``
 Insert an artist/group name:
 Oasis
-
+``
 Insert song 1 for Oasis
 Live Forever
 Insert song 2 for Oasis
