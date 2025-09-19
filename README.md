@@ -5,6 +5,8 @@ User inputs up to 3 songs for up to 4 artists. The program puts the songs in alp
 
 Compiled to a .exe executable file using gcc
 
+```  gcc mainpage.c functionlist.c -o playlistmaker.exe  ```
+
 ## Example run
 ```text
 Insert an artist/group name:
