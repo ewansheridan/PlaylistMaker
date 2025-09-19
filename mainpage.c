@@ -16,7 +16,7 @@ int main(void)																	// Declaration of the main function
 	for ( int i=0 ; i<4 ; i++ )													// For-loop for input of artists
 	{
 		printf("\n\n\nInsert an artist/group name:\n");							// Asks the user to input an artist's name
-		fflush();
+		//fflush();
         fgets(artists[i] , 80 , stdin);											// Takes an artist's name and stores it in the artists array
         printf("\n");															// Prints a new line
 
